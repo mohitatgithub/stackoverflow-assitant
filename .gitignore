@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+main_bot.py
+Stackoverflow_Chatbot.ipynb
+dialogue_manager.py
+*.tsv
