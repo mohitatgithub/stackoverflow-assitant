@@ -26,8 +26,8 @@ All model pickle files can be downloaded from this Google Drive [link](https://d
 Snapshots of bot conversation on Telegram messenger:
 
 <p float="left">
-  <img src="Screenshot1.png" width="100" />
-  <img src="Screenshot2.png" width="100" />
+  <img src="Screenshot1.png" width="400" />
+  <img src="Screenshot2.png" width="400" />
 </p>
 
 #### Future Scope
