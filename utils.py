@@ -9,11 +9,11 @@ from nltk.corpus import stopwords
 
 # Paths for all resources for the bot.
 RESOURCE_PATH = {
-    'INTENT_RECOGNIZER': 'output/intent_recognizer.pkl',
-    'TAG_CLASSIFIER': 'output/tag_classifier.pkl',
-    'TFIDF_VECTORIZER': 'output/tfidf_vectorizer.pkl',
-    'THREAD_EMBEDDINGS_FOLDER': 'output/thread_embeddings_by_tags',
-    'WORD_EMBEDDINGS': 'output/word_embeddings.tsv',
+    'INTENT_RECOGNIZER': 'models/intent_recognizer.pkl',
+    'TAG_CLASSIFIER': 'models/tag_classifier.pkl',
+    'TFIDF_VECTORIZER': 'models/tfidf_vectorizer.pkl',
+    'THREAD_EMBEDDINGS_FOLDER': 'models/thread_embeddings_by_tags/',
+    'WORD_EMBEDDINGS': 'datasets/starspace_embedding.tsv',
 }
 
 
